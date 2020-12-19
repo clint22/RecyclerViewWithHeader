@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewWithHeader</string>
+    <string name="child_doctor_name">Dr. Child</string>
+    <string name="child_doctor_department">MD, Neurology</string>
+</resources>
